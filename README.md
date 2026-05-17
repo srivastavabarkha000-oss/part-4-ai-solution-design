@@ -39,6 +39,7 @@ The system is designed to assist doctors, not replace them.
   **Data Categories**
 Unstructured Data → Chest X-ray images
 Structured Data → Patient details and labels
+
 **Data Sources**
 - NIH medical image datasets
 - Kaggle healthcare datasets
