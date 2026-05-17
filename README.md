@@ -1,7 +1,10 @@
 # part-4-ai-solution-design
 Part 4: AI Solution Design for a Business Problem
+
 **Task 8: Final Solution Summary**
+
 **AI-Based Healthcare Solution for Pneumonia Detection**
+
 **1. Problem**
 Hospitals and diagnostic centers often face delays in detecting pneumonia from chest X-ray images. 
 Manual diagnosis depends heavily on radiologists and can be time-consuming, especially in hospitals with large patient volumes.
@@ -26,6 +29,7 @@ The proposed solution is an AI-powered Computer Vision system that automatically
 - Human review before final diagnosis
 
 The system is designed to assist doctors, not replace them.
+
 **3. Required Data**
   Data Type	              Description
 - Chest X-ray images	   Medical image input
